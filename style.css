@@ -1,0 +1,103 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.header img{
+	max-width: 100px;
+	max-height: 70px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.header{
+	background: skyblue;
+	height: 18vh;
+}
+
+.header h1{
+	color: darkblue;
+	text-align: center;
+	margin-top: -66px;
+}
+
+.main-container h3{
+	text-align: center;
+	margin-top: 60px;
+}
+
+.container1{
+	margin-left: 250px;
+	margin-top: 40px;
+	width: 70%;
+}
+
+.container1 input{
+	width: 45%;
+	padding: 20px;
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+legend{
+	padding: 30px;
+}
+
+fieldset{
+	margin-bottom: 20px;
+}
+
+button{
+	margin-top: 20px;
+	background: skyblue;
+	border:none;
+	border-radius: 10px;
+	width: 200px;
+	height: 50px;
+	margin-left: 630px;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+button:hover{
+	cursor: pointer;
+	background: deepskyblue;
+	transition: 0.3s;
+}
+
+.container2{
+	margin-top:100px;
+	background: #ccc;
+	padding: 60px;
+	font-size: 17px;
+	font-family: sans-serif;
+}
+
+.last{
+	background: #ccc;
+	text-align: center;
+	font-weight: 200;
+	font-size: 13px;
+}
+
+#success{
+	width: 200px;
+	height: 200px;
+	margin-left: 580px;
+	margin-top: 40px;
+}
+
+#txt{
+	margin-top: 10px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+footer{
+	text-align: center;
+	margin-top: 220px;
+	font-size: 13px;
+	font-weight: 200;
+}
